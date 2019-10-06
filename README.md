@@ -80,19 +80,19 @@ When the "Add New Task" button is pressed, a form opens with fields for the task
 A table is shown on this sheet for the project manager to view team members, their competencies and their available times. This feature increases the effectiveness of project managers in monitoring all group members' availability and their ability to perform outlined project tasks.
 
 <p float="center">
- <img src="images/decision-support-tool/resources-sheet.png"/>
+ <img src="images/decision-support-tool/resource-sheet.png"/>
 </p>
 
 The "Add New User" button activates a pop-up user form that allows the project manager to add new member info and associated member information.
 
 <p float="center">
-  <img src="images/decision-support-tool/resources-sheet-add-user.png"/>
+  <img src="images/decision-support-tool/resource-sheet-add-user.png"/>
 </p>
 
 The "Edit Resources" button allows members to revise their individual member information.
 
 <p float="center">
-  <img src="images/decision-support-tool/resources-sheet-revise-user.png"/>
+  <img src="images/decision-support-tool/resource-sheet-revise-user.png"/>
 </p>
 
 [Back to Top](#top)
