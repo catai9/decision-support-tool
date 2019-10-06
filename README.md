@@ -37,13 +37,15 @@ This feature displays necessary information on tasks, deadlines, problem statuse
  <img src="images/decision-support-tool/problem-sheet.png"/>
 </p>
 
+The "View Specific Sheet" button introduces a pop-up user form which provides the project manager with easy access to another sheet.
+ 
 <p float="center">
- The "View Specific Sheet" button introduces a pop-up user form which provides the project manager with easy access to another sheet.
  <img src="images/decision-support-tool/problem-sheet-view-specific-sheet.png"/>
 </p>
 
+The "Update Problem Status" button brings up a form that allows the project manager to update each task with its status. Possible labels include 'Addressed', 'Ongoing', and 'Not Addressed'.
+
 <p float="center">
- The "Update Problem Status" button brings up a form that allows the project manager to update each task with its status. Possible labels include 'Addressed', 'Ongoing', and 'Not Addressed'.
  <img src="images/decision-support-tool/problem-sheet-problem-status.png"/>
 </p>
 
@@ -58,13 +60,15 @@ Only project managers have access to this page. The primary function is to guide
  <img src="images/decision-support-tool/project-input.png"/>
 </p>
 
+The "Project Phase and Task Input" button opens a user form to prompt the user to enter the number of team members, the number of weeks for the project, and the final project deadline.
+
 <p float="center">
-  The "Project Phase and Task Input" button opens a user form to prompt the user to enter the number of team members, the number of weeks for the project, and the final project deadline.
    <img src="images/decision-support-tool/project-input-project-phase.png"/>
 </p>
 
+When the "Add New Task" button is pressed, a form opens with fields for the task, project phase, task descriptions, task competency needed, competency skill level, estimated task completion time, and the task deadline.
+
 <p float="center">
-  When the "Add New Task" button is pressed, a form opens with fields for the task, project phase, task descriptions, task competency needed, competency skill level, estimated task completion time, and the task deadline.
   <img src="images/decision-support-tool/project-input-add-task.png"/>
 </p>
 
@@ -79,13 +83,15 @@ A table is shown on this sheet for the project manager to view team members, the
  <img src="images/decision-support-tool/resources-sheet.png"/>
 </p>
 
+The "Add New User" button activates a pop-up user form that allows the project manager to add new member info and associated member information.
+
 <p float="center">
-  The "Add New User" button activates a pop-up user form that allows the project manager to add new member info and associated member information.
   <img src="images/decision-support-tool/resources-sheet-add-user.png"/>
 </p>
 
+The "Edit Resources" button allows members to revise their individual member information.
+
 <p float="center">
-  The "Edit Resources" button allows members to revise their individual member information.
   <img src="images/decision-support-tool/resources-sheet-revise-user.png"/>
 </p>
 
@@ -111,8 +117,9 @@ This feature serves as a summary sheet for the project manager and the team memb
   <img src="images/decision-support-tool/assignment-table.png"  />
 </p>
 
+The "Task Update" button activates a form for team members to add and update project tasks for display on the summary sheet.
+  
 <p float="center">
-  The "Task Update" button activates a form for team members to add and update project tasks for display on the summary sheet.
   <img src="images/decision-support-tool/assignment-table-status-update.png"  />
 </p>
 
